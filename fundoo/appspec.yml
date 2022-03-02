@@ -9,6 +9,6 @@ hooks:
        timeout: 300
        runas: root
   AfterInstall:
-     - location: Scripts/supervisorStart.sh
+     - location: Scripts/Start_Server.sh
        timeout: 300
        runas: root
