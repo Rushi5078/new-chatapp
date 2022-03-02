@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: /new-chatapp/fundoo
     destination: /home/ubuntu/new_chatapp
 hooks:
   BeforeInstall:
